@@ -16,7 +16,7 @@ int main()
         vector<ll> arr(m);
 
         for(ll j = 0; j < m; j++)
-            cin >> arr[i];
+            cin >> arr[j];
 
         ll min = arr[0];
 
